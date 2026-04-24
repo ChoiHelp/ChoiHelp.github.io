@@ -1,7 +1,7 @@
 ---
 title: "Walking Through or Detour? Investigating Walking Paths with World‑Anchored Mixed Reality Objects"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/CHI2026_Walking
 date: 2026-4-15
 venue: "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI '26)"
